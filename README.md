@@ -4,7 +4,7 @@
 <h2 align="center">Contact.</h2>
 
 - 📫 Discord  : ✞YoYo✞#7270
-- 👋 Server   : https://discord.gg/NPXByUgnxc
+- 👋 Server / DC Shop   : https://discord.gg/NPXByUgnxc
 
 <h2 align="center">About me.</h2>
 
